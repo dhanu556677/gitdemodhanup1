@@ -1,2 +1,3 @@
 # gitdemodhanup1
-sample program
+sample program 
+welcome to git and github
